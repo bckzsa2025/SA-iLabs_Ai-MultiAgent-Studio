@@ -1,0 +1,8 @@
+{
+  "name": "⚙️Cold Steel™©  🔩Workbench",
+  "description": "Offline-first, vendor-agnostic cognitive orchestration environment with identity continuity.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
